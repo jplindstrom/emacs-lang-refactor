@@ -1,9 +1,11 @@
 emacs-lang-refactor
 ===================
 
-Emacs - simple refactorings for Perl
+NOTE: This repo is now renamed to emacs-lang-refactor. Do not use this
+one.
 
-Currently there's only:
-* Extract variable - M-x lr-extract-variable
+Use this instead: https://github.com/jplindstrom/emacs-lang-refactor-perl
+
+This repo will be deleted eventually.
 
 
